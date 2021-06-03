@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for raysing and maintaining of horse and foot for the garrison of Glocester : and for the counties of Glocester, Hereford, Monmouth, Glamorgan, Brecknocke and Radnor : and to enable the committee for the said counties and city of Glocester, to put all former ordinances of Parliament for advance of mony [sic] in execution.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22118</idno><idno type="EEBO-CITATION">12062062</idno>
+  <idno type="VID">196685</idno>
+  <idno type="EEBO-PROQUEST">2248524109</idno>
+  
+            <idno type="STC">Wing E1908</idno>
+            <idno type="OCLC">12062062</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196685)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 236:E47, no 12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for raysing and maintaining of horse and foot for the garrison of Glocester : and for the counties of Glocester, Hereford, Monmouth, Glamorgan, Brecknocke and Radnor : and to enable the committee for the said counties and city of Glocester, to put all former ordinances of Parliament for advance of mony [sic] in execution.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>May 13, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Gloucestershire (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196685:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons, Assembled in <hi>Parliament:</hi> For raysing and maintaining of Horse and Foot for the Garrison of <hi>Glocester.</hi>
+            </p>
+            <p>And for the Counties of Glocester, Hereford, Monmouth, Glamorgan, Brecknocke, and Radnor.</p>
+            <p>And to enable the <hi>Committee</hi> for the said Counties and City of Glocester, to put all former Ordinances of Parliament for advance of Mony in execution.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>10th. Maij. 1644.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Commons assembled in Parliament, that this Ordinance be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed for <hi>Edward Husbands,</hi> 1644. <hi>May</hi> 13.</p>
+            <pb facs="tcp:196685:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb facs="tcp:196685:2"/>
+            <head>An Ordinance of the Lords and Commons assembled in Parliament, for raising and maintaining of Horse and Foote for the Garri<g ref="char:EOLhyphen"/>son of Glocester, &amp; for the Counties of Glocester, &amp;c.</head>
+            <p>WHereas the County and City of Glocester, and the County of the said city are now in a sad condition, by reason of the enemies lying upon them, and keeping many Gar<g ref="char:EOLhyphen"/>risons in the county of Glocester, and the counties of Hereford, Monmouth, Glamorgan, Brecknock, and Radnor, being al<g ref="char:EOLhyphen"/>most all in their power, whereby the Irish Rebels and other ene<g ref="char:EOLhyphen"/>mies have the freer passage for prosecuting their bloudy designes against this kingdom to spoil and ruine the same; for prevention whereof, and to reduce the residue of the said counties to their due obedience of the King and Parliament, there is great neces<g ref="char:EOLhyphen"/>sity that three or 400. horse, and other forces be presently rai<g ref="char:EOLhyphen"/>sed, and mony provided for the same, &amp; also for the better main<g ref="char:EOLhyphen"/>taining of the forces already raised, and to be raised in the said Counties and City, The Lords and Commons in Parliament assembled, considering the premises, and well weighing the ex<g ref="char:EOLhyphen"/>traordinary and faithfull service performed at, before and since the late siege of Glocester by the Garrison there by Colonell <hi>Massey,</hi> &amp; the forces under his command, Do declare, order, and ordaine, and be it hereby ordered, declared, and ordained, That sir <hi>Robert Harley</hi> Knight of the Bath, <hi>Iohn Wilde</hi> Serjeant at Law. <hi>Nathaniel Stephens, Edward Stephens, Tho. Hodges, Tho. Pury</hi> Esq. Members of the House of Commons, the Major and Recorder of the City of Glocester for the time being, sir <hi>Giles Overbury▪</hi> Kt <hi>Edw. Massie,</hi> Col. and Governour of Glocester, <hi>Iames Kirle, Iohn Stephens, Tho. Stephens, Edw. Harley, Isaac Bromwich, Sylvanus Wood,</hi>
+               <pb n="4" facs="tcp:196685:3"/>
+               <hi>Will. Shepheard, Stephen Flower, Edw. Broughton,</hi> and <hi>Henry Iones</hi> Esq. shall be, and are hereby nominated a Committe of, and for the said severall counties and city; and that they, or any three or more of them shall hereby have full power and Authority, to take the subscriptions of all such persons as will voluntarily lend or contribute any summe or summes of money, plate, horse or Armes towards the supplies and provisions aforesaid, and for other necessaries for the advancement of the said service, which summe and summes of Money, Plate, Horse, or Armes to be sub<g ref="char:EOLhyphen"/>scribed, lent, and contributed as aforesaid, the said Committee, or any three or more of them shall and may receive and employ for the services aforesaid, and give Notes, or Acquittances for the severall summes of Money, Plate, Horse, or Armes so recei<g ref="char:EOLhyphen"/>ved, which said Notes or Acquittances shall be a sufficient spe<g ref="char:EOLhyphen"/>cialty for the severall persons that shall lend, or contribute any Money, Plate, Horse, or Armes as aforesaid, to demand re-pay<g ref="char:EOLhyphen"/>ment thereof, or the value thereof with such encrease as shall be agreed upon, so as the same shall not exceed 8. l. <hi>per cent.</hi> And for the better enabling the said Committee to make re-payment of such Monies, and the value of such Plate, Horse, and Arms as shall be lent for the purposes aforesaid, and for the raysing, maintenance, and supplies of the said forces from time to time as need shall require, Be it further ordained by the Lords and Commons, that the said committee, or any three or more of them, shall have power and authority to put in execution with<g ref="char:EOLhyphen"/>in the said counties the severall Ordinances of this present Par<g ref="char:EOLhyphen"/>liament hereafter mentioned; That is to say, <hi>The Ordinance for Se<g ref="char:EOLhyphen"/>questration of Malignants, Delinquents, and Papists Estates;</hi> the Or<g ref="char:EOLhyphen"/>dinance for raysing of Money, by taxing such as have not at all contributed, or not according to their Estates; The Ordinance for the weekly Assesments, and all other Ordinances made this present Parliament, for advance of Money through the whole Kingdome of England and dominion of Wales, for the service
+<pb n="5" facs="tcp:196685:3"/> of the King and Parliament, so far forth as they, or any of them have not been already fully executed within the places afore<g ref="char:EOLhyphen"/>said, except the Ordinances for leavying of Monies by way of Excise, or new Impost, the proceed of all which raised, and to be raised within the said counties, shall be paid unto the said Committee, or any three or more of them to be issued out for the uses and purposes aforesaid, which shall be a sufficient dis<g ref="char:EOLhyphen"/>charge to the commissioners of Excise in that behalfe. And the commissioners of Excise are Authorised, and hereby required from time to time, to issue their Warrants to their inferiour Of<g ref="char:EOLhyphen"/>ficers within the said counties for payment of the said monies accordingly, and that the said Committee, or any three or more of them, take care of the full and due execution of the said Ordi<g ref="char:EOLhyphen"/>nances, according to the tenure and true meaning of the same re<g ref="char:EOLhyphen"/>spectively; and for the more speedy raising of Monies for the repayment of such summes, and the value of such Plate, Horse, or Armes as shall be brought in by subscriptions as aforesaid; Be it ordained by the Lords and Commons, that the said com<g ref="char:EOLhyphen"/>mittees, or any three or more of them shall have hereby full power and authority to set, and let the Lands, Tenements, and Hereditaments of all Malignants, Delinquents, and Papists, which shall be seized and sequestred according to the Ordinance of Parliament for Sequestration within the said counties, and city from yeare to yeare, or by Lease or Leases for the intents or purposes aforesaid, so long as the said Sequestration shall con<g ref="char:EOLhyphen"/>tinue; and in case the said Subscribers and Lenders shall not re<g ref="char:EOLhyphen"/>ceive full satisfaction of their principall Money, and interest to be lent and subscribed as aforesaid out of the Estates of Malig<g ref="char:EOLhyphen"/>nants, Delinquents and Papists, and other provision as afore<g ref="char:EOLhyphen"/>said, that then the said Subscribers, and Lenders, and every of them are by vertue of this Ordinance to have the publique faith of the Kingdome for the repayment of such summe and summes of money as shall be due unto them.</p>
+            <pb n="6" facs="tcp:196685:4"/>
+            <p> And be it further Ordained, that the said Committees or any three or more of them shall have full power and Authority to name and appoint such Treasurers, Collectors &amp; other Officers within the said Counties &amp; City, as they shall think fit and con<g ref="char:EOLhyphen"/>venient for the better putting in Execution of all and every the aforesaid Ordinances of Parliament, &amp; of this present ordinance, aswell for the receiving of all or any the said monies, as also for the issuing out of the same, for the purposes aforesaid, by warrant under the hands of the said Committee, in such manner as the said Committee or any three or more of them shall appoint, and to call to account from time to time upon Oath all such Treasurers, collectors, and other persons who shall receive any Monies, Plate, Horse, or Armes, by vertue of this present Or<g ref="char:EOLhyphen"/>dinance of Parliament, for the Services aforesaid, and to give such fitting and reasonable allowances unto such persons as shal be imployed in the Execution of the Ordinance aforesaid, and of this present Ordinance or any of them for their charges and paines therein, as the said Committees or any three or more of them shall think fit: provided that such allowance shall not exceede the respective rates allowed by the said severall Ordi<g ref="char:EOLhyphen"/>nances in other counties of the Kingdome for putting the said Ordinances in Execution; and if any such Treasurers, Colle<g ref="char:EOLhyphen"/>ctors or other person or persons shall refuse to Accompt or pay in the Monies wherewith they are charged, then the said Com<g ref="char:EOLhyphen"/>mittees or any three or more of them, shall returne their names to one or both houses of Parliament, and the said Commit<g ref="char:EOLhyphen"/>tees or any three or more of them are hereby enabled and Authorized to call to accompt upon oath all such person and persons of the said severall Counties, as have received any mo<g ref="char:EOLhyphen"/>nies by Authority of Parliament, which they have not made even payment of. And the said Committees or any three or more of t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hm are hereby Authorised, to Administer the severall oathes specified in the foresaid Ordinances to such Commissio<g ref="char:EOLhyphen"/>ners
+<pb n="7" facs="tcp:196685:4"/> or persons as have not already taken the same: And be it further Ordained by the said Lords and Commons, that the per<g ref="char:EOLhyphen"/>sonall Estates of such Malignants, Delinquents and Papists with<g ref="char:EOLhyphen"/>in the Cities of <hi>London</hi> and <hi>Westminster,</hi> and within 20. miles of the same not yet sequestred nor discovered, and which shall be discovered by the said Committees, or any three, or more of them, or by such person or persons as they shall authorize under their hands and seales for that purpose, within three Moneths next after the passing of this Ordinance, shall be allowed unto the said Committees for the further advancement of the said service: Provided that the said concealed Estates exceed not the sum of 5000. pounds; And that the said committees or a<g ref="char:EOLhyphen"/>ny person or persons authorized by them as aforesaid, nor any of them shall possesse themselves of the said Delinquents or Pa<g ref="char:EOLhyphen"/>pists Estates, before hee or they acquaint the committee of Lords and Commons for sequestrations therewith, or any three or more of them, whereof the chair-man to be one, to the end, they may judge of their Delinquency before his or their estates be sequestred and taken away: And be it further Ordained by the Lords and Commons, that the said committees or any three or more of them, shall have power and authority, and are here<g ref="char:EOLhyphen"/>by required to administer the late Nationall <hi>Covenant</hi> appoint<g ref="char:EOLhyphen"/>ed to be taken by the three Kingdomes of <hi>England, Scotland</hi> and <hi>Ireland,</hi> to all persons within the said counties and citie, who ought to take the same by the late Ordinance and Instructions for that purpose, and have not already taken it. And be it fur<g ref="char:EOLhyphen"/>ther Ordained by the said Lords and Commons, that the said committees or any three or more of them, shall have power to call before them all Ministers and Schoole-masters within the said counties and citie that are scandalous in their lives, or ill-affected to the Parliament, or fomenters of this unnaturall War, or shall wilfully refuse obedience to the Ordinances of Parlia<g ref="char:EOLhyphen"/>ment, or shall have deserted their ordinary place of Residence,
+<pb n="8" facs="tcp:196685:5"/> not being employed in the service of the King and Parliament, and they shall have power to send for any witnesses, and exa<g ref="char:EOLhyphen"/>mine any complaint, or receive any testimony against them up<g ref="char:EOLhyphen"/>on Oath of any person that shall be produced to give evidence against them, and upon such proofes of the aforesaid crimes, the said Committees or any three or more of them, have hereby power to remove and eject all such scandalous Ministers and Schoole-masters, and in their places to nominate and appoint such learned, able, and godly persons as they shall think fit, and shall cause all such Ministers and Schoole-masters so nomina<g ref="char:EOLhyphen"/>ted, appointed, and placed, to be put in possession of the said se<g ref="char:EOLhyphen"/>verall Churches and Schooles, who shall and may respective<g ref="char:EOLhyphen"/>ly take, receive, and perceive, to their owne use, the profits and revenues belonging to the said severall Churches and places in as large and ample manner as the severall Ministers and persons in the said severall places have formerly used to do: And all Majors, Sheriffes, Constables, and other His Majesties Offi<g ref="char:EOLhyphen"/>cers and Ministers, are hereby required to be ayding and assist<g ref="char:EOLhyphen"/>ing to the said Committee as aforesaid in the execution of this service; and tis lastly ordered, declared &amp; ordained, that the good endeavours of the said Committee in the execution of the pre<g ref="char:EOLhyphen"/>misses, are, and shall be taken as reall and publique testimonies to the publique weale, and themselves, and such others as shall act and be ayding and assisting to them, according to the true meaning of this present Ordinance, shall be for so doing, saved harmelesse and indempnified by power of Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
